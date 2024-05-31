@@ -14,3 +14,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![image of deployed site](https://github.com/adammathis05/payroll-tracker/blob/main/assets/Payment%20Tracker%20Screenshot.png)
 
 ## Credits
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+- https://www.w3schools.com/jsref/jsref_random.asp
+- 
