@@ -12,13 +12,13 @@ const collectEmployees = function() {
   console.log(lastName);
   const salary= prompt("Enter Salary");
   console.log(salary);
-  const continue= prompt("Add Another Employee? Y/N");
+  const addAnother= prompt("Add Another Employee? Y/N");
   
-  if (continue === "Y") {
+  if (addAnother === "Y") {
     console.log("Y");
-    
+    collectEmployees()
   }
-  else if (continue === "N") {
+  else if (addAnother === "N") {
     console.log("N");
 
   }
