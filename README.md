@@ -17,4 +17,4 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
 - https://www.w3schools.com/jsref/jsref_random.asp
-- 
+  
