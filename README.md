@@ -11,6 +11,11 @@
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![image of deployed site](https://github.com/adammathis05/seo-code-refactor/blob/main/assets/images/SEO%20Refactor%20Deployed%20Screenshot.png)
+![image of deployed site](https://github.com/adammathis05/payroll-tracker/blob/main/assets/Payment%20Tracker%20Screenshot.png)
 
 ## Credits
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+- https://www.w3schools.com/jsref/jsref_random.asp
+- https://www.w3schools.com/jsref/jsref_push.asp
+  
